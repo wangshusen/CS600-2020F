@@ -2,7 +2,7 @@ CS600: Advanced Algorithms
 ============
 
 
-> Instructor: Shusen Wang and Xuting Tang
+> Instructors: Shusen Wang and Xuting Tang
 
 
 Description
@@ -56,40 +56,53 @@ Schedule
     * Binary search.
     
     * Skip List.
+
+    * Insertion sort.
     
-- Labor Day, No Classes
+- Sep 7, Labor Day, No Classes
 
 
 - Sep 14, Lecture 2
-
-    * Insertion sort.
     
     * Merge sort.
     
     * Quick sort.
     
     * Quick select.
+    
+    * Divide and conquer.
        
     
 - Sep 21, Lecture 3
     
-    * Divide and conquer.
-    
     * Matrix data structures.
+    
+    * Fast matrix multiplication.
+    
+    * Binary search trees.
+    
+    
+- Sep 27, 3:00 - 7:59 PM
+
+	* **Bonus Quiz** (on Canvas, auto-graded.)
+	
+	* Voluntary; not required. Up to 2 bonus points.
     
     
 - Sep 28, Lecture 4
     
-    * Fast matrix multiplication.
+    * Binary search trees (cont).
     
-    * Binary trees.
+    * Priority queues.
     
     
 - Oct 5, Lecture 5
     
-    * Priority queues.
+    * **Quiz 1**, from 3 to 4 PM.
     
     * Disjoint sets.
+    
+    * Graph basics.
     
     
 - Oct 12, 20 Fall Recess; No Classes.
@@ -97,9 +110,9 @@ Schedule
     
 - Oct 13, Lecture 6
     
-    * Graph basics.
-    
     * Shortest path.
+    
+    * Network flow.
     
     
 - Oct 19, Lecture 7
@@ -148,6 +161,51 @@ Assignments and Exams
 	
 	* Submit to Canvas before Sep 30.
 	
+ 
+- Homework 3: Trees
+
+	* Available on Canvas (auto-graded.)
+	
+	* Submit to Canvas before Oct 4.
+	
+	* Make sure you finish HM3 on time in order to get prepared for Quiz 1.
+	
+ 
+- Homework 4: Heaps and Disjoint Sets
+
+	* Available on Canvas (auto-graded.)
+	
+	* Submit to Canvas before Oct 13.
+	
+
+- Sep 27, 3:00 - 7:59 PM, **Bonus Quiz**
+
+	* Online quiz (on Canvas, auto-graded.)
+	
+	* Voluntary; not required. Up to 2 bonus points.
+	
+	* Time limit: 20 minutes.
+	
+	* Coverage: array, vector, list, skip list, divide-and-conquer.
+	
+
+- Oct 5, 3:00 - 4:00 PM **Quiz 1**
+
+	* Online quiz (on Canvas, auto-graded.)
+	
+	* Time limit: 60 minutes.
+	
+	* Coverage: from the beginning to binary search trees.
+
+
+- Date TBD, 3:00 - 4:00 PM **Quiz 2**
+
+	* Online quiz (on Canvas, auto-graded.)
+	
+	* Time limit: 60 minutes.
+	
+	* Coverage: from heaps to network flow.
+
 
 
 
