@@ -112,19 +112,35 @@ Schedule
     
     * Shortest path.
     
-    * Network flow.
+    * Spanning trees.
     
     
 - Oct 19, Lecture 7
     
+    * Spanning trees (cont.)
+    
+    * Network flow.
+    
     
 - Oct 26, Lecture 8
+    
+    * Network flow (cont.)
+    
+    * Bipartite graphs.
     
     
 - Nov 2, Lecture 9
     
+    * Bipartite graphs (cont.)
+    
+    * Dynamic programming.
+    
     
 - Nov 9, Lecture 10
+    
+    * **Quiz 2**, from 3:00 to 4:10 PM.
+    
+    * Dynamic programming (cont.)
     
     
 - Nov 16, Lecture 11
@@ -177,6 +193,27 @@ Assignments and Exams
 	
 	* Submit to Canvas before Oct 13.
 	
+ 
+- Homework 5: Graphs algorithms (Graph Basics, Shortest Paths, Spanning Trees, and Network Flow)
+
+	* Available on Canvas (auto-graded.)
+	
+	* Submit to Canvas before Oct 25.
+	
+ 
+- Homework 6: Bipartite Graphs
+
+	* Available on Canvas (auto-graded.)
+	
+	* Submit to Canvas before Nov 8.
+	
+ 
+- Homework 7: Programming
+
+	* Available on Canvas.
+	
+	* Submit to Canvas before Nov 22.
+	
 
 - Sep 27, 3:00 - 7:59 PM, **Bonus Quiz**
 
@@ -198,13 +235,16 @@ Assignments and Exams
 	* Coverage: from the beginning to binary search trees.
 
 
-- Date TBD, 3:00 - 4:00 PM **Quiz 2**
+- Nov 9, 3:00 - 4:10 PM **Quiz 2**
 
 	* Online quiz (on Canvas, auto-graded.)
 	
-	* Time limit: 60 minutes.
+	* Time limit: 70 minutes.
 	
-	* Coverage: from heaps to network flow.
+	* Coverage: from heaps to bipartite graphs.
+
+
+
 
 
 
