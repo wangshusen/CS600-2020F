@@ -138,7 +138,7 @@ Schedule
     
 - Nov 9, Lecture 10
     
-    * **Quiz 2**, from 3:00 to 4:10 PM.
+    * **Quiz 2**, from 3:00 to 4:00 PM.
     
     * Dynamic programming (cont.)
     
@@ -235,14 +235,22 @@ Assignments and Exams
 	* Coverage: from the beginning to binary search trees.
 
 
-- Nov 9, 3:00 - 4:10 PM **Quiz 2**
+- Nov 9, 3:00 - 4:00 PM **Quiz 2**
 
 	* Online quiz (on Canvas, auto-graded.)
 	
-	* Time limit: 70 minutes.
+	* Time limit: 60 minutes.
 	
-	* Coverage: from heaps to bipartite graphs.
+	* Coverage: from heaps to network flows.
 
+
+- TBD, 3:00 - 4:00 PM **Quiz 3**
+
+	* Online quiz (on Canvas, auto-graded.)
+	
+	* Time limit: 60 minutes.
+	
+	* Coverage: from bipartite graphs to TBD.
 
 
 
@@ -251,6 +259,24 @@ Assignments and Exams
 
 Grading Policy
 ---------
+**Grades**:
+
+- **A**: 93 and above.
+
+- **A-**: [90, 93)
+
+- **B+**: [87, 90)
+
+- **B**: [83, 87)
+
+- **B-**: [80, 83)
+
+- **C+**: [77, 80)
+
+- **C**: [73, 77)
+
+- **Fail**: below 73
+
 
 **Weights**:
 
@@ -260,7 +286,7 @@ Grading Policy
 
 - Final 20\% 
 
-- Bonus
+- Bonus 4\%
 
 
 **Late penalty**:
