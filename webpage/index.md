@@ -145,14 +145,26 @@ Schedule
     
 - Nov 16, Lecture 11
     
+    * Strings.
+    
     
 - Nov 23, Lecture 12
+    
+    * Randomized algorithms.
+    
+    * Hashing.
     
     
 - Nov 30, Lecture 13
     
+    * **Quiz 3**, from 3:00 to 4:00 PM.
+    
+    * Hashing (cont.)
+    
     
 - Dec 7, Lecture 14
+    
+    * Cryptographic algorithms.
 
 
 
@@ -244,13 +256,13 @@ Assignments and Exams
 	* Coverage: from heaps to network flows.
 
 
-- TBD, 3:00 - 4:00 PM **Quiz 3**
+- Nov 30, 3:00 - 4:00 PM **Quiz 3**
 
 	* Online quiz (on Canvas, auto-graded.)
 	
 	* Time limit: 60 minutes.
 	
-	* Coverage: from bipartite graphs to TBD.
+	* Coverage: from bipartite graphs to randomized algorithms.
 
 
 

@@ -56,17 +56,20 @@ utilitydata.job.passes.collected={
   { 2, 0 },
  },
  ["itemgroup:itemize:5"]={
-  { 16, 0 },
-  { 2, 0 },
+  { 17, 0 },
+  { 1, 0 },
  },
  ["itemgroup:itemize:6"]={
-  { 2, 0 },
-  { 2, 0 },
+  { 11, 0 },
+  { 3, 0 },
  },
  ["itemgroup:itemize:7"]={
-  { 4, 0 },
+  { 8, 0 },
  },
  ["itemgroup:itemize:8"]={
+  { 4, 0 },
+ },
+ ["itemgroup:itemize:9"]={
   { 2, 0 },
  },
 }
@@ -118,8 +121,8 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 1, 1, 2, 4, 16, 2, 4, 2 },
-  { 0, 2, 0, 0, 0, 3, 0, 0, 4, 0, 2, 0, 2, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0 },
+  { 0, 1, 1, 2, 4, 17, 11, 8, 4, 2 },
+  { 0, 2, 0, 0, 0, 4, 0, 0, 4, 0, 3, 0, 2, 0, 2, 0, 3, 0, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1, 0, 2, 0, 2, 0, 1, 0, 0, 2, 0, 2, 0, 3, 0, 2, 0, 2, 0, 2, 0, 2, 0, 4, 0, 3, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
  },
  ["linenote"]={
   { 0 },
@@ -128,7 +131,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["realpage"]={
-  { 2 },
+  { 4 },
  },
  ["subpage"]={
   { 0 },
@@ -137,7 +140,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["userpage"]={
-  { 2 },
+  { 4 },
  },
 }
 
@@ -211,7 +214,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=5,
-   ["realpage"]=2,
+   ["realpage"]=3,
    ["reference"]="grading-policy",
    ["section"]=5,
   },
@@ -236,6 +239,20 @@ utilitydata.structures.pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=2,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=3,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=4,
   ["numberdata"]=13,
   ["prefixdata"]=14,
   ["state"]="start",
